@@ -1,0 +1,17 @@
+{
+    "name": "speed",
+    "version": "1.0.0",
+    "description": "",
+    "main": "speed.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fetch-readablestream": "^0.1.0",
+        "node-fetch": "^2.2.0",
+        "xhr": "^2.5.0",
+        "xmlhttprequest": "^1.8.0"
+    }
+}
